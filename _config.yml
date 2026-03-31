@@ -101,6 +101,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+      header:
+        overlay_image: "/assets/images/quantum_banner.png"
+        overlay_filter: "0.4"
 
 category_archive:
   type: liquid
